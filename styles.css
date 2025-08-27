@@ -1,6 +1,7 @@
 /* Card container styling */
 .card {
-    width: 300px;               /* Set the card width */
+    width: 400px;   
+	height:200px;/* Set the card width */
     padding: 20px;              /* Inner spacing */
     background-color: #f0f0f0; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
